@@ -5,12 +5,18 @@ than the standard Jubeat 4x4. At the moment, the game will only play the hardest
 difficulty found within a song folder, difficulty selection is not enabled.
 The keyboard is used as follows:
 
- _ _ _ _
+ \_ _ _ _
+
 |R|T|Y|U|
+
  \- - - -
+
 |F|G|H|J|
+
  \- - - -
+
 |V|B|N|M|
+
  \- - - -
 
 To add Beat Saber maps to the game, insert the map folder into
